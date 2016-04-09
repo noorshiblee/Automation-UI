@@ -32,3 +32,9 @@ Maven Test Run
     ->Locally
     ->From Jenkins or any CI (for CLI support , there will be an entry from Program -> main method)
     ->With Webdriver Remote Driver execution
+    
+    
+# How to start : 
+Init gitflow , 
+Create new feature 
+Work in your own branch  
