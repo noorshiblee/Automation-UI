@@ -19,7 +19,7 @@ Maintainable code :
 5.
 
 This framework :
-1. Driver managemebt
+1. Driver management
 2. Properties
 3. Page Utild
 4. Common Utils
